@@ -19,11 +19,10 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("Neuroblastoma Distant Metastasis Detection Assistant")
-st.write("Hi, this is a simple program about neuroblastoma discrimination.")
+st.title("Breast Cancer Distant Metastasis Detection Assistant")
+st.write("Hi, this is a simple program about breast cancer distant metastasis discrimination.")
 st.write("You can enter the relevant variables and get a preliminary discriminatory result.")
-st.write("Our results are not the truth, and intelligently assist you in the discrimination of the likelihood of "
-         "cancer metastasis.")
+st.write("Our results are not the truth, and intelligently assist you in the discrimination of the likelihood of breast cancer metastasis.")
 st.write("The truth needs to be analyzed and summarized by professionals from the perspective of mechanism and so on.")
 st.write('  ')
 st.write('  ')
