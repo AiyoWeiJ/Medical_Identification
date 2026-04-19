@@ -9,7 +9,7 @@ The truth needs to be analyzed and summarized by professionals from the perspect
 
 ## Usage
 
-https://neuroblastoma-distant-metastasis-detection-assistant-bagytzysf.streamlit.app/
+https://medicalidentification-sjnzqwxk3brntpffxwyn6y.streamlit.app/
 
 ## Contributing
 
